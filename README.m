@@ -1,4 +1,4 @@
-I am Saurav Thakur
+_I am Saurav Thakur_
 I am pre final year Electrical Engineering undergrad at IITK
 I am working on android development and have experience of working on Neural Networks.
 I have done sport programming.
